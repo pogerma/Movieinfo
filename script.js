@@ -1,6 +1,7 @@
 const searchButton = document.querySelector(".searchBtn");
 const searchform = document.querySelector("form")
 const movieContainer = document.querySelector(".movie-container")
+const inputBox = document.querySelector(".inputBox")
 
 
 const getMovieInfo = async (Kinoner) => {
